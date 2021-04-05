@@ -10,7 +10,7 @@
     - container
     - docker vs virtual machine
     - containerd
-    - ...
+
 1. داکر
    - docker  رو نصب کنید
    - یک image دانلود و اجرا کنید
@@ -21,15 +21,13 @@
        - it
        - port, portmapping
        - create
-       - ...
-1. داکر فیل
+1. داکر فایل
     - در مورد directive هایی زیر بخوندی
         - FROM
         - ENTRYPOINT
         - CMD
         - COPY
         - ADD
-        - ...
     - dockerfile پروژه ی جنگوی خود را بسازید
     - builde کنید و ان را داخل dockerhub اپلود کنید
 1. حالا بریم ممفاهیم پیشرفته تری رو یادبگیرم
