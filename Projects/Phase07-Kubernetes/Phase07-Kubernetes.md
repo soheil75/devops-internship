@@ -33,5 +33,4 @@
      - networking in kubernetes
      - storage
      - volume
-
 1.yaml file های مورد نیاز برای پروژهی خود را نوشته و روی کلاستر deploy کنید
