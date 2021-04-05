@@ -1,4 +1,9 @@
-# آشنایی با cloud  - پروژهی نصب و استفاده از سرویس swift
+ <p dir="rtl" align='right'> # آشنایی با cloud  - پروژهی نصب و استفاده از سرویس swift  </p>
+
+<p dir="rtl" align='right'> #آشنایی با زیرساخت های ابری </p>
+
+<p dir="rtl" align='right'>
+ 
 در این پروژه ابتدا به یادگیری مفاهیم رایانش ابری میپردازیم. پس از پروژهی openstack را بررسی میکنیم.
 پس از آن شروع به نصب و یادگیری یکی از سروِیسهای پروژههای openstack به نام swift میکنیم و آن را به عنوان مخزن اطلاعات پروژهی جنگو استفاده خواهیم کرد.
 
@@ -35,3 +40,7 @@
 در مورد مفاهیم object storage و file storage  و block storage  مطالعه کنید. چه تفاوت های دارند؟
 تفاوت swift  به عنوان یک  object storage   و mysql  به عنوان یک sql database و یا elastic به عنوان یک nosql در چیست ؟
 انواع object storage  ها و block storage ها را نام ببرید. (به صورت دقیقتر  object storage systems and block storage systems)
+
+
+
+</p>
