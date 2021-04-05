@@ -9,7 +9,7 @@
 ##  آشنایی با cloud  - پروژهی نصب و استفاده از سرویس swift فاز سوم:
 
 در مورد هر کدام از 
-1. در مورد هر یک از موارد زیر مطالعه کنید و نتایج مطالعات خود را در قابل  pdf ذخیره کنید
+1. در مورد هر یک از موارد زیر مطالعه کنید و نتایج مطالعات خود را در قابل  pdf ذخیره کنید:memo:
     -   رایانش ابری چیست (cloud computing) ؟ 
     -   مجازی ساز (hypervisor) چیست؟
     -   تفاوت رایانش ابری (cloud computing) و مجازی سازی (virtualization) چیست؟
@@ -34,7 +34,10 @@
     - Storage Policies
 1. بریم swift نصب کنیم :wink:
     > :warning: حواستون باشه ورژنی که نصب میکنید حتما ussuri باشه (برای اینکار باید repository ورژن ussuri رو به apt اضافه کنید)
-    > 
-
+    
+# بیشتر بخونیم :
+    - در مورد مفاهیم object storage و file storage  و block storage  مطالعه کنید. چه تفاوت های دارند؟
+    - تفاوت swift  به عنوان یک  object storage   و mysql  به عنوان یک sql database و یا elastic به عنوان یک nosql در چیست ؟
+    - انواع object storage  ها و block storage ها را نام ببرید. (به صورت دقیقتر  object storage systems and block storage systems)
 
 </div>
