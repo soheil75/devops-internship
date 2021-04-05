@@ -7,15 +7,9 @@
 
 1.در مورد مفاهیم زیر تحقیق کنید
     - virtualization
-    - 
     - container
     - docker vs virtual machine
     - containerd
-3.داکر
-4.داکر فایل
-5.حالا بریم ممفاهیم پیشرفته تری رو یادبگیرم
-
-
 1. 
    - docker  رو نصب کنید
    - یک image دانلود و اجرا کنید
