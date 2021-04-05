@@ -10,6 +10,7 @@
     - container
     - docker vs virtual machine
     - containerd
+    - ...
 1.داکر
    - docker  رو نصب کنید
    - یک image دانلود و اجرا کنید
