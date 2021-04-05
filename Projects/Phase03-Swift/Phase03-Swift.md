@@ -15,4 +15,26 @@
     -   تفاوت رایانش ابری (cloud computing) و مجازی سازی (virtualization) چیست؟
     - چه شرکت هایی سرویس های رایانش ابری ارائه میدهند ؟ و چه سرویس هایی ارائه میدهند؟ (در مورد هرکدام کمی توضیح دهید.)
     -   پروژه ی openstack چیست ؟ چه سرویس هایی توسط این پروژه ارائه میشود؟
+    -   سرویس swift چیست؟ ورژن های مختلف آن.
+    -   معماری طراحی  swift به چه شکل است؟
+
+1.مفاهیم زیر که مرتبط با swift هستند را توضیح دهید
+    - Proxy Server
+    - Ring
+    - Ring builder
+    - Container
+    - Object
+    - Account
+    - Container
+    - Recon
+    - TempUrl
+    - Expirer
+    - SLO
+    - Replicator
+    - Storage Policies
+1. بریم swift نصب کنیم :wink:
+    > :warning: حواستون باشه ورژنی که نصب میکنید حتما ussuri باشه (برای اینکار باید repository ورژن ussuri رو به apt اضافه کنید)
+    > 
+
+
 </div>
