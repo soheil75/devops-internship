@@ -7,11 +7,16 @@
 
 1.در مورد مفاهیم زیر تحقیق کنید
     - virtualization
+    - 
     - container
     - docker vs virtual machine
     - containerd
+3.داکر
+4.داکر فایل
+5.حالا بریم ممفاهیم پیشرفته تری رو یادبگیرم
 
-1. داکر
+
+1. 
    - docker  رو نصب کنید
    - یک image دانلود و اجرا کنید
    - در مورد command های زیر بخونید
@@ -21,7 +26,7 @@
        - it
        - port, portmapping
        - create
-1. داکر فایل
+1. 
     - در مورد directive هایی زیر بخوندی
         - FROM
         - ENTRYPOINT
