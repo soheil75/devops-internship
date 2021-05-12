@@ -9,13 +9,13 @@
     - What is ci/cd
     - build django project with gitlab
     
-1. first step :
+1. گام‌های زیر را به ترتیب انجام دهید :
   - build project with gitlab
   - writing stages
   - run job in parrallel and background
   - using environment variables
 
-1.gitlab-ci:
+1.موارد زیر را در gitlab-ci بررسی کنید:
   - cache nad artifact
   - manual deployment and manual trigger
   - merge request
