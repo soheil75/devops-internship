@@ -15,6 +15,7 @@
   - run job in parrallel and background
   - using environment variables
  
+ 
 1.موارد زیر را در gitlab-ci بررسی کنید:
   - cache nad artifact
   - manual deployment and manual trigger
