@@ -11,9 +11,12 @@
     
 1. first step :
   - build project with gitlab
-	- writing stages
-	- run job in parrallel and background
-	- using environment variables
+  - writing stages
+  - run job in parrallel and background
+  - using environment variables
+
+
+
 1.gitlab-ci:
 	- cache nad artifact
 	- manual deployment and manual trigger
