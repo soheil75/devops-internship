@@ -15,10 +15,8 @@
   - run job in parrallel and background
   - using environment variables
 
-
-
 1.gitlab-ci:
-	- cache nad artifact
-	- manual deployment and manual trigger
-	- merge request
-	- anchors and job template
+  - cache nad artifact
+  - manual deployment and manual trigger
+  - merge request
+  - anchors and job template
