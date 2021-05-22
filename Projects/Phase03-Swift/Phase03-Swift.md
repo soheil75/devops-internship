@@ -1,4 +1,4 @@
-<div dir="rtl" align='right'>
+<div dir="rtl" text-align='right'>
 
 [لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase03.md)
 
