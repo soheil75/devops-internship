@@ -6,10 +6,12 @@
 در این فاز ابتدا به یادگیری مفهوم container میپردازیم و با docker  آشنا میشیم
 
 1.در مورد مفاهیم زیر تحقیق کنید
-    - virtualization
-    - container
-    - docker vs virtual machine
-    - containerd
+    - Virtualization
+    - Container consept
+    - Docker vs virtual machine
+    - Container Run Time Engine.
+    - Container Images
+    - Registry
 1. 
    - docker  رو نصب کنید
    - یک image دانلود و اجرا کنید
@@ -19,9 +21,10 @@
        - rm
        - it
        - port, portmapping
-       - create
+       - create v ...
 1. 
-    - در مورد directive هایی زیر بخوندی
+    -  تعریف کردن داکرفایل برای بیلد کردن ایمیج ها داکری
+  
         - FROM
         - ENTRYPOINT
         - CMD
