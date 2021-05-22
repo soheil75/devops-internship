@@ -1,5 +1,29 @@
-<div dir="rtl" text-align='right'>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phase03-Swift.md</title>
+    <style>
+        @font-face {
+            font-family: Shabnam;
+            src: url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.eot');
+            src: url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.eot?#iefix') format('embedded-opentype'),
+                url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.woff2') format('woff2'),
+                url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.woff') format('woff'),
+                url('https://cdn.fontcdn.ir/Font/Persian/Shabnam/Shabnam.ttf') format('truetype');
+               font-weight: normal;
+        }
+        body{
+            text-align: right;
+            direction: rtl;
+            font-family: Shabnam;
+            }
+    </style>
+</head>
+<body>
+    <div>
 [لیست تسک‌های مرتبط با این فاز به صورت issue template](./issue-Phase03.md)
 
 #  آشنایی با مفاهیم ابری
@@ -54,3 +78,5 @@
   - انواع object storage  ها و block storage ها را نام ببرید. (به صورت دقیقتر  object storage systems and block storage systems)
     تفاوت ceph , swift
 </div>
+</body>
+</html>
