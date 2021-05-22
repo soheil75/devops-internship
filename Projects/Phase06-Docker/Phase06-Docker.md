@@ -37,7 +37,8 @@
     - network in docker
     - layered architecture
     - environment variable
- 
+    - docker Compose
+
 
 
     
